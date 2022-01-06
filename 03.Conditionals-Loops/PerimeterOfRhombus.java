@@ -7,9 +7,9 @@ public class PerimeterOfRhombus{
         Scanner in = new Scanner(System.in);
 
 
-        // System.out.println("Enter the side :");
-        // double side = in.nextDouble();
-       double side = 6;
+        System.out.println("Enter the side :");
+        double side = in.nextDouble();
+     
         double perimeter = 4 * side;
         System.out.println("Perimeter Of Rhombus is "+perimeter);
     }
