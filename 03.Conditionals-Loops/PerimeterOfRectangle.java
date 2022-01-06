@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class PerimeterOfParallelogram{
+public class PerimeterOfRectangle{
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
